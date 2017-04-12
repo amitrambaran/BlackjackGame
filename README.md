@@ -1,2 +1,2 @@
 # BlackjackGame
-Console based blackjack game with randomized computer AI.
+Console based blackjack game with randomized computer AI. (School project)
